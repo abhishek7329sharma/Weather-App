@@ -1,0 +1,15 @@
+{
+  "name": "weather-app-html--css--javascript-only-",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.2.0"
+  }
+}
